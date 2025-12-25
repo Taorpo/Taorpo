@@ -8,7 +8,7 @@ I am a student studying CS with a profound interest in cybersecurity.
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a team as a Penetrataion Tester.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,8 +19,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -45,7 +43,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
-  <a href="https://verify.openedg.org/?id=aGdk.Zx4i.AeFd" target="_blank">
+  <a href="https://verify.openedg.org/?id=[Put the Cert id hear] " target="_blank">
     <img src="https://img.shields.io/badge/PCEP-maroon?style=for-the-badge" alt="PCEP Certification" />
   </a>
 </div>
