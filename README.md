@@ -1,4 +1,4 @@
-# Hey, I'm Cameron
+# Hey, I'm Taorpo
 <a href="https://www.linkedin.com/in/cameron-courtright-79013b369/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a student studying CS with a profound interest in cybersecurity.
