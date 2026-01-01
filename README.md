@@ -1,5 +1,5 @@
 # Hey, I'm Taorpo
-<a CHANGEWHENREADYhref="https://www.linkedin.com/in/cameron-courtright-79013b369/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/PUT_NAME_AND_LINKED_IN_ID_HERE_WHEN_READY/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a student studying CS with an interest in cybersecurity.
 
