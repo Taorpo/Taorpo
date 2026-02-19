@@ -43,7 +43,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
-  <a href="https://verify.openedg.org/?id=[Put the Cert id hear] " target="_blank">
+  <a href="https://verify.openedg.org/?id=[Put the Cert id here] " target="_blank">
     <img src="https://img.shields.io/badge/PCEP-maroon?style=for-the-badge" alt="PCEP Certification" />
   </a>
 </div>
