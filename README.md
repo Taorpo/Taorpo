@@ -5,7 +5,7 @@ I am a student studying CS with an interest in cybersecurity.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a team as a Penetrataion Tester.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically in the field of AI Security.
 
 ## Skills
 
