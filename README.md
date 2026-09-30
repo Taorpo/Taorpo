@@ -3,6 +3,7 @@
 🎓 UCF Computer Science '30 &nbsp;·&nbsp; 🔒 Cybersecurity &nbsp;·&nbsp; 💻 Hack@UCF &nbsp;·&nbsp; ⚜️ Eagle Scout
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cameron-courtright-79013b369/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muse.ai/s/portfolio-site-xmj5xfxxxrbib7xy)
 ![Open to internships](https://img.shields.io/badge/Open_to-Summer_2027_Internships-2ea44f?style=for-the-badge)
 
 ## About
