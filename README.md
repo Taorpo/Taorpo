@@ -1,53 +1,30 @@
-# Hey, I'm Taorpo
-<a href="https://www.linkedin.com/in/cameron-courtright-79013b369/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi, I'm Cameron Courtright 👋
 
-I am a student studying CS with an interest in cybersecurity.
+🎓 UCF Computer Science '30 &nbsp;·&nbsp; 🔒 Cybersecurity &nbsp;·&nbsp; 💻 Hack@UCF &nbsp;·&nbsp; ⚜️ Eagle Scout
 
-## Objective
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cameron-courtright-79013b369/)
+![Open to internships](https://img.shields.io/badge/Open_to-Summer_2027_Internships-2ea44f?style=for-the-badge)
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically in the field of AI Security.
+## About
 
-## Skills
+CS freshman at the University of Central Florida, focused on cybersecurity. I build real systems that solve real problems — most recently an AI lead follow-up system for real estate agents.
 
+## 🚀 Featured Project
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Learning          | <a hrref="https:google.com">Learning</a>|
-| Learning | <a hrref="https:google.com">Learning</a>|
-| Learning         | Learning|
-| Learning      | Learning|
-| Learning                  | Learning|
-| Learning | Learning
+**[AutoMyMail](https://github.com/Taorpo/automymail)** — AI lead follow-up for real estate agents
+- Ingests lead-form emails, holds qualifying AI conversations, and drafts booking-ready replies proposing real showing times from the agent's calendar
+- Designed the workflow and directed the build with AI-assisted development; tested end to end
+- Migrated from a paid Render server to Google Apps Script to eliminate hosting costs entirely
 
+## 🛠️ Tech Stack
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Learning-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Learning-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Learning-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Learning-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Learning-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+## 📊 Stats
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Learning-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Learning-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Learning-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-
-<div>
-  <a href="https://verify.openedg.org/?id=aGdk.Zx4i.AeFd " target="_blank">
-    <img src="https://img.shields.io/badge/PCEP-maroon?style=for-the-badge" alt="PCEP Certification" />
-  </a>
-</div>
-
-
-## Projects
-- AutoMyMail
+![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taorpo&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taorpo&layout=compact)
