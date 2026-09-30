@@ -24,8 +24,3 @@ CS freshman at the University of Central Florida, focused on cybersecurity. I bu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 📊 Stats
-
-![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taorpo&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taorpo&layout=compact)
